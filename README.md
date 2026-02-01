@@ -13,6 +13,8 @@
 <p align="left">- System Design<br>- complex logic implementation<br>- performance optimization</p>
 
 ###
+<h2 align+"left"> See Full Portfolio (CV) Via : https://ali-abdellatif.vercel.app </h2>  
+###
 
 <h2 align="left">I code with</h2>
 
