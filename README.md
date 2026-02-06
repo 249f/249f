@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- System Design<br>- complex logic implementation<br>- performance optimization</p>
+<p align="left">- System Design<br>- complex logic implementation<br>- performance optimization<br>- budget utilization</p>
 
 ###
 <h2 align+"left"> See Full Portfolio (CV) Via : https://249f.vercel.app </h2>  
