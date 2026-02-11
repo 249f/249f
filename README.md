@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Software Engineering student</p>
-<img src="https://3-d-github-readme-only.vercel.app/api/generate?user=249f" height="40" alt="html5 logo"  />
+<img src="https://3-d-github-readme-only.vercel.app/api/generate?user=249f" alt="html5 logo"  />
 
 ###
 
