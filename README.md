@@ -3,7 +3,7 @@
 ###
 
 <p align="left">Software Engineering student</p>
-<img src="https://3d-g.vercel.app/api/generate?user=249f" alt="3d graph"  />
+<img src="https://3d-g.vercel.app/api/generate?user=249f&rotate=45" alt="3d graph"  />
 
 ###
 
