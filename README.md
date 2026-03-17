@@ -4,6 +4,7 @@
 
 <p align="left">Software Engineering student</p>
 <img src="https://3d-g.vercel.app/api/generate?user=249f&rotate=180" alt="3d graph"  />
+<img src="https://3-d-github-readme-only-git-dev2-alis-projects-9c26d36b.vercel.app/api/flat?user=249f" alt="2d flat graph"  />
 
 ###
 
