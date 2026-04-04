@@ -15,7 +15,7 @@
 <p align="left">- System Design<br>- complex logic implementation<br>- performance optimization<br>- budget utilization <br>- Websites Deployment</p>
 
 ###
-<h2 align+"left"> See Full Portfolio (CV) Via : https://249f.vercel.app </h2>  
+<h2 align+"left"> See Full Portfolio (CV) Via : https://249f.github.io </h2>  
 
 <h2 align="left">Tech Stack</h2>
 
