@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- System Design<br>- complex logic implementation<br>- performance optimization<br>- budget utilization <br>- Websites Deployment</p>
+<p align="left">- System Design<br>- complex logic implementation<br>- performance optimization.</p>
 
 ###
 <h2 align+"left"> See Full Portfolio (CV) Via link : https://249f.github.io </h2>  
